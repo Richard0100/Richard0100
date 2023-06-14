@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Richard0100
+- 👋 Hi, I’m "Richard Rodrigues."
 - 👀 I’m interested in "intership and jobs."
 - 🌱 I’m currently learning "Analysis and systems development."
 - 💞️ I’m looking to collaborate on "codes, developments and systems."
